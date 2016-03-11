@@ -1,5 +1,5 @@
 {
-  "name": "@nsisodiya/eventbus",
+	"name": "@nsisodiya/eventbus",
 	"version": "1.1.0",
   "description": "Simple EventBus for Node.js",
   "main": "dist/EventBus.js",
