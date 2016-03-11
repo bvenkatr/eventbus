@@ -1,8 +1,8 @@
 {
   "name": "@nsisodiya/eventbus",
   "version": "1.0.0",
-  "description": "Simple Eventbus for Node.js",
-  "main": "dist/Eventbus.js",
+  "description": "Simple EventBus for Node.js",
+  "main": "dist/EventBus.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch &",

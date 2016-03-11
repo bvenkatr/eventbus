@@ -1,6 +1,6 @@
 module.exports = {
 	entry: {
-		"Eventbus": "./src/index.js",
+		"EventBus": "./src/index.js",
 		"example": "./example/example.js"
 	},
 	output: {
@@ -13,8 +13,8 @@ module.exports = {
 		"@nsisodiya/eventbus": {
 			commonjs: '@nsisodiya/eventbus',
 			commonjs2: '@nsisodiya/eventbus',
-			amd: 'Eventbus',
-			root: 'Eventbus'
+			amd: 'EventBus',
+			root: 'EventBus'
 		}
 	},
 	module: {
