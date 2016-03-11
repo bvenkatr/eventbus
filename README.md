@@ -9,7 +9,7 @@ npm install --save @nsisodiya/eventbus
 
 # Usage
 
-```
+```js
 import EventBus from '@nsisodiya/eventbus';
 
 
