@@ -2,11 +2,11 @@
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory(require("@nsisodiya/eventbus"));
 	else if(typeof define === 'function' && define.amd)
-		define(["Eventbus"], factory);
+		define(["EventBus"], factory);
 	else if(typeof exports === 'object')
 		exports["example"] = factory(require("@nsisodiya/eventbus"));
 	else
-		root["example"] = factory(root["Eventbus"]);
+		root["example"] = factory(root["EventBus"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE_1__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
